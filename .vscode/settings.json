@@ -1,3 +1,5 @@
 {
-    "cmake.sourceDirectory": "C:/Users/aum39/OneDrive/Desktop/Research project current SOP/Sphere example for Hybrid Bayesian optimisation/CAESAR PACKAGES/robust-laplacians-py"
+    "cmake.sourceDirectory": "C:/Users/aum39/OneDrive/Desktop/Research project current SOP/Sphere example for Hybrid Bayesian optimisation/CAESAR PACKAGES/robust-laplacians-py",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }

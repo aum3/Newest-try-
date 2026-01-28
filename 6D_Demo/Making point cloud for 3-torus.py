@@ -32,6 +32,6 @@ random_points = np.hstack((x1, y1, x2, y2, x3, y3))  # n x 6 matrix
 
 
 
-np.save("Sphere example for Hybrid Bayesian optimisation/6D_Demo/6D_TORUS_POINT_CLOUD.npy", random_points)
+np.save("6D_TORUS_POINT_CLOUD.npy", random_points)
 
 
